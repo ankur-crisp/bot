@@ -1,0 +1,114 @@
+,Solution Number,solutionname,category,subcategory,description
+1,Solution-1,Online archival,Outlook,,This solution guides you to set up an online archival to free your local disk space.
+2,Solution-2,Unable to send emails due to an IRM error,Outlook,,This solution helps you to install IRM on your computer.
+4,Solution-4,Speed up your Outlook,Outlook,slowness,"It guides you to start Outlook in a safe mode. On a successful restart, it prompts you to uninstall redundant Add-ins. If restart does not succeed, then you are prompted to create a new profile.  It also checks the size of the OST files."
+5,Solution-5,Recover or request a certificate,Outlook,,This solution guides you to recover or request a digital certificate.
+6,Solution-6,Read and sign emails from OWA,Outlook,,This solution guides you to install a digital certificate so that you can send and read digitally signed mails.
+7,Solution-7,Always encrypt or digitally sign emails,Outlook,,This solution guides you to select the setting for encryption or digitally signing mails.
+8,Solution-8,Unable to open calendar invite,Outlook,configuration,This solution helps you to uninstall redundant Add-ins which may be interfering with your Outlook calendar.
+9,Solution-9,Outlook encountered a problem,Outlook,,"This solution helps you to fix a problem, likely to arise from many issues, in Outlook."
+10,Solution-10,Outlook PST error,Outlook,configuration,This solution helps you to repair your PST file using scanpst.
+11,Solution-11,Outlook OST error,Outlook,configuration,This solution helps you to recreate the OST file on your computer.
+12,Solution-12,Desktop notifications not appearing,Outlook,configuration,"This solution helps you turn on notifications for your Desktop whenever you get a new email, or a meeting is about to start."
+13,Solution-13,Outlook is unable to send/ receive email,Outlook,error messages,This solution helps you to reconnect your Outlook so that you are able to send/receive mails.
+14,Solution-14,Map mails to PST file	,Outlook,,This solution helps you to map an existing PST file to your Outlook so that you can view its content.
+15,Solution-15,Create a new PST file,Outlook,configuration,This solution helps you to create a new PST file to save space on the mail server.
+18,Solution-18,Unable to open default mail folder,Outlook,,This solution helps you to modify a setting in the Outlook.exe Properties dialog box.
+19,Solution-19,DLP corrupted error while sending email	,Outlook,,This solution guides you to correct the error related to corruption in DLP while sending mail in Outlook.
+20,Solution-20,Unable to Browse,Internet Explorer,error messages,This solution helps you to perform various tasks in Internet options dialog which may be interfering with your browsing.
+21,Solution-21,Accenture sites not opening,Internet Explorer,,This solution helps you to perform various tasks in the Internet Options dialog box which may be interfering with your browsing.
+23,Solution-23,External websites not accessible,Internet Explorer,,This solution helps you to perform various tasks in the Internet Options dialog box which may be interfering with your browsing.
+25,Solution-25,Symantec registration issue,Internet Explorer,,This solution guides you to register your device for Symantec.
+26,Solution-26,Java application blocked by security settings,Internet Explorer,,This solution helps you to change few settings in the Java control panel.
+27,Solution-27,Error while opening secured URL,Internet Explorer,,This solution helps you change relevant settings in the Internet Options dialog box.
+28,Solution-28,Open PDF files,Internet Explorer,,This solution helps you enable this in Internet Add-ons dialog.
+29,Solution-29,Connection tab is not seen in Internet Options,Internet Explorer,,This solution changes a registry setting to re-enable the Connection tab in Internet Options.
+30,Solution-30,Set PIN while printing	,Printing Issue,,This solution helps you to set up PIN while printing.
+31,Solution-31,Install a new printer,Printing Issue,,This solution helps you to install a new printer.
+32,Solution-32,Create a new profile,Outlook,,This solution tells you how to create a new profile.
+33,Solution-33,Create a shared mailbox,Outlook,,This solution guides you to create a shared mailbox.
+41,Solution-41,Corrupt TCP/ IP Fix	,System and Networking,,This solution fixes issues like computer not acquiring IP Address or encountering network errors.
+42,Solution-42,Temporary profile login in Windows7,System and Networking,,This solution allows you to get icon and profile settings back.
+43,Solution-43,Hyperlink does not open in Outlook,Outlook,,"Hyperlink does not open in Outlook, giving an error “This operation has been cancelled due to restrictions in effect on this computer."
+44,Solution-44,Unable to start Outlook,Outlook,,"Unable to start  Outlook, giving start up errors."
+45,Solution-45,Network adapter not connected error,System and Networking,,Not connected error (or) Red X on network adapter even if network cable is connected.
+46,Solution-46,Unable to open attachments from Outlook,Outlook,,This solution helps you in opening Excel attachments received in Outlook.
+47,Solution-47,Problem in moving/dragging cells,Office,,Unable to move/ drag cells in Excel.
+48,Solution-48,Problem sending command to the program,System and Networking,,"The error message: ""There was a problem sending command to the program"" - is shown every time you try to open the file."
+49,Solution-49,Unable to open Excel,Office,,"Unable to open Excel, with error message: The file is corrupt and cannot be opened."
+50,Solution-50,"Excel hangs when using copy, paste",Office,,"Excel hangs when using copy, paste."
+51,Solution-51,Speed up Excel,Office,,Improve the performance of Excel.
+52,Solution-52,Speed up Word,Office,,Improve the performance of Word.
+53,Solution-53,Speed up PowerPoint,Office,,Improve the performance of PowerPoint.
+54,Solution-54,Recently used files not visible,Office,,Not able to view Most Recently used files in Excel.
+55,Solution-55,Data Card Error - 633,System and Networking,,Data Card Error: 633 modem is already in use or not configured properly
+56,Solution-56,Symantec Endpoint Protection Error 1317,System and Networking,,"This solution resolves Symantec Endpoint Protection Error 1317 – ""Not Updating Definitions"" "
+57,Solution-57,Lync or Skype online plugin is disabled	,Lync/Skype,,Lync/ Skype online plugin is disabled in Outlook.
+58,Solution-58,Unable to see emails older than a year,Outlook,,"After migration to Office 2013, unable to see old emails older than a year."
+59,Solution-59,Turn off auto archiving,Outlook,,Turn off auto archiving feature in Outlook.
+60,Solution-60,Remove automatic junk mail filter,Outlook,,Remove automatic junk filtering in Outlook.
+61,Solution-61,Archive old emails manually,Outlook,,Archive old emails manually in Outlook.
+62,Solution-62,Unable to see Lync/ Skype presence status,Outlook,,Unable to see Lync/ Skype presence status in Outlook 2013.
+62,Solution-62,Presence of Lync/ Skype unknown	,Lync/Skype,,lync/ Skype presence status not shown on Outlook 2013.
+63,Solution-63,Error accessing Oracle forms,System and Networking,,"Error while accessing Oracle forms - ""Oracle Jinitiator version too low""."
+64,Solution-64,Cisco VPN,System and Networking,,"Cisco VPN does not open when double clicked and automatically minimizes to the task bar with status as ""Disconnected""."
+66,Solution-66,Enable auto archival,Outlook,,Enable auto archival of old email in Outlook.
+67,Solution-67,Recover deleted mails in Outlook Web Access,Outlook,,Recover deleted mails from Outlook Web Access.
+68,Solution-68,Unable to open protected email,Outlook,,Unable to open protected email in Outlook.
+69,Solution-69,Update phone number in Symantec	,System and Networking,,Update phone number in Symantec.
+71,Solution-71,Encrypt or digitally sign an email while sending.,Outlook,,This solution checks the setting which allows you to encrypt or digitally sign an email while you are composing the message.
+81,Solution-81,Lync/ Skype audio is not working,Lync/Skype,,This solution allows you to select appropriate settings to enable audio. It will also direct you to install the latest required drivers.
+82,Solution-82,Upgrade Lync 2010 to 2013,Lync/Skype,,This solution will guide you to upgrade Lync 2010 to 2013.
+83,Solution-83,Upgrade Lync 2013 to Skype for Business,Lync/Skype,,This solution will guide you to upgrade Lync 2013 to Skype for Business.
+84,Solution-84,Lync/ Skype disconnects often,Lync/Skype,,This solution will guide you to fix login issues or any profile issues.
+85,Solution-85,Unable to log in to Lync/ Skype,Lync/Skype,,This solution will guide you to fix login/ connection issues.
+86,Solution-86,Unable to share desktop in Lync/ Skype,Lync/Skype,,This solution will guide you to raise a request to enable desktop sharing.
+87,Solution-87,Unable to record a meeting in Lync	,Lync/Skype,,"This solution will guide to raise a request for recording access. If not possible, it will guide you to request recording services for a specific meeting."
+88,Solution-88,Unable to connect to Lync meeting,Lync/Skype,,"This solution will guide you to fix connectivity issues, enabling you to connect to meeting or take Lync calls."
+89,Solution-89,Request VPN access,System and Networking,,This solution will guide you to raise a request for VPN access (requires approval: approver has to be career level B and above). 
+90,Solution-90,Request RAS VPN access,System and Networking,,This solution will guide you to raise a request for RAS VPN access (requires manager’s approval)
+91,Solution-91,Reset the navigation pane,Outlook,,This solution resets the navigation pane in your Outlook.
+93,Solution-93,Enable RUN option on Start button,Office,,To enable RUN option on Start button in Windows 7 OS
+94,Solution-94,Excel unable to copy,Office,,EXCEL cannot copy from one cell to multiple cells or feature has stopped working
+95,Solution-95,Excel hangs while formatting,Office,,Excel hangs when I try to format any cell
+96,Solution-96,Hyperlink issue in MS Word,Office,,Hyperlink problem in MS Word 2013
+98,Solution-98,Lync or Skype not working,Lync/Skype,,This solution will guide you to delete sip directory for lync/skype
+99,Solution-99,Skype auto-discover popup,Lync/Skype,,Skype auto-discover popping-up repeatedly for password
+100,Solution-100,Not able to schedule lync meeting from outlook,Lync/Skype,,This solution will guide you to repair your mailbox and delete sip directory
+101,Solution-101,One Drive,Office,,Download and upload files on One Drive
+102,Solution-102,Skype/Lync not recognizing audio device,Lync/Skype,,Skype/Lync not recognizing audio device or shows not-working error(PART I)
+103,Solution-103,Skype/Lync not recognizing audio device,Lync/Skype,,Skype/Lync not recognizing audio device or shows not-working error(PART II)
+113,Solution-113,Require access to MyTE,CIO Application Support,,This solution helps you to raise an access request to MyTE portal
+114,Solution-114,Unable to print,CIO Application Support,,This solution helps you if you are unable to take a printout from MyTE
+115,Solution-115,PPA Issues in MyTE,CIO Application Support,,This solution will help you solve PPA issues in MyTE
+116,Solution-116,Error during complete adjustment option,CIO Application Support,,This solution will help you solve error you are getting while doing complete adjustment in MyTE
+117,Solution-117,we@accenture not working,CIO Application Support,,This solution will help you solve problem due to which we@accenture portal is not working
+118,Solution-118,Accenture portal not provisioned,CIO Application Support,,This solution helps resolve problem when you are getting  site not provisioned for Accenture portals
+119,Solution-119,Blank screen for accenture portal,CIO Application Support,,This solution helps resolve problem when you are getting blank screen while opening Acenture portals
+120,Solution-120,Unable to add hours in MyTE,CIO Application Support,,This solution solves the issue when you are not able to add hours in MyTE
+121,Solution-121,Book past expenses in MyTE,CIO Application Support,,This solution helps you to book past expenses in MyTE
+122,Solution-122,Blocked sharepoint sites,CIO Application Support,,This solution helps you resolve blocked sharepoint sites issue
+130,Solution-130,Citrix receiver installation,System and Networking,,This solution guides you to install Citrix receiver by downloading the latest update available.
+131,Solution-131,Data Card not working,System and Networking,,"Checks if the data card is in the accenture approved list. if yes, verifies model and ensures whether the data card is active or not."
+132,Solution-132,Enterprise ID getting locked frequently,Desktops & Laptops Performance Improvement Fixes,,guides you to check if there is any password saved in windows credentials and helps you remove if there is any.
+133,Solution-133,Flash player update,Internet Explorer,,"It guides you to install latest update and if the issue still persists, it helps you enable Flash Player for IE."
+134,Solution-134,Indexing Issue Resolution steps,Outlook,,This solution helps you to resolve Indexing issue by guiding you with well defined steps.
+135,Solution-135,Java Update,Internet Explorer,,This solution helps you to resolve Java Update related issues by guiding you to download appropriate java version from Oracle website.
+136,Solution-136,Office Activation over internet,Office,,This solution guides you through the MS Office activation process by following the prompts untill the process is complete.
+137,Solution-137,Unable to open PDF,Internet Explorer,,"It helps you to install the latest Acrobat Reader. if you are unable to download, it guides you with well defined steps to make changes in IE."
+138,Solution-138,unable to print,Printing Issue,,This solution helps you when you are unable to print.
+139,Solution-139,Accenture VPN Issue,System and Networking,,This solutions helps to resolve Accenture VPN issue by guiding you to remove all the addins related to Pulse Secure or Juniper.
+140,Solution-140,Outlook Y profile,outlook,,This helps you when you are unable to configure outlook Y profile
+141,Solution-141,unable to open citrix,System and Networking,,This solution helps you when you are unable to open citrix
+142,Solution-142,Reinstall Symantec VIP,Internet Explorer,,This solution guides you to reinstall Symantec VIP.
+143,Solution-143,Unable to create Skype Meeting,Lync/Skype,,This solution helps you when you are unable to create Skype Meeting.
+144,Solution-144,Saved favorites in IE are not available in Google Chrome,Internet Explorer,,This solution helps you when saved favorites in IE are not available in Google Chrome.
+200,Solution-200,Allow ActiveX Controls,Desktops & Laptops Performance Improvement Fixes,,This solution allows ActiveX control to run from the Internet and intranet websites.
+201,Solution-201,Clear Event Logs,Desktops & Laptops Performance Improvement Fixes,,"This solution will clear the Security, Application and System Event Logs from the Event Viewer."
+202,Solution-202,Clean up System Pre-fetch,Desktops & Laptops Performance Improvement Fixes,,This solution will clear the System Pre-fetch. This will help in improving the system performance.
+203,Solution-203,Empty Recycle Bin,Desktops & Laptops Performance Improvement Fixes,,This solution deletes files from the Recycle Bin. This will help in improving system performance.
+204,Solution-204,Clean up Java cache files,Desktops & Laptops Performance Improvement Fixes,,This solution clears all the Java Cache files downloaded by Oracle/ Cognos Applications in User profile/ Application Data/ Sun Folder.
+205,Solution-205,Clear User Temp files,Desktops & Laptops Performance Improvement Fixes,,This solution clears all the files under logged-in Temp folder and frees up space to improve System Performance for the logged-in user profile.
+206,Solution-206,Clear Windows Temp files,Desktops & Laptops Performance Improvement Fixes,,This solution clears all files under Windows Temp folder and frees up space to improve System Performance.
+207,Solution-207,Enable pop-ups in Internet Explorer,Desktops & Laptops Performance Improvement Fixes,,This solution allows websites to display pop-up in Internet Explorer.
+5001,Solution-5001,Workstation security compliance,Compliance,,"Helps to resolve the non compliance issues related to DLP, Antivirus and Polling"

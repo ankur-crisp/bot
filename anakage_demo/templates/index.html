@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <title>Chat Bot Demo</title>
+ 
+ 
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+ 
+    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+ 
+ 
+</head>
+ 
+<body>
+ 
+    <div class="container">
+        <div class="header">
+            <h3 class="text-muted">Chat Bot Demo</h3>
+        </div>
+        <form action="/response" method="post">
+          
+
+              <div class="form-group">
+                <label for="query">Ticket</label>
+                <textarea class="form-control" id="query" name="query" placeholder="Raise Ticket..." rows="3"></textarea>
+              </div>
+                         
+              
+              
+              <button type="submit" class="btn btn-primary">Submit</button>
+
+
+        </form>
+        <br><br>
+
+        {% if answer!=None  %}
+        <label for="answerTextarea1">{{answer[0][1][0]}}</label>
+        <div class="input-group">
+          
+          <span class="input-group-addon " id="basic-addon1">{{answer[0][0]}}</span>
+          <textarea class="form-control text-left"" id="answerTextarea1" name="answer1" placeholder="...." rows="2">{{answer[0][1][1]}}</textarea>
+          <span class="input-group-addon " id="basic-addon1">{{answer[0][2]}}</span>
+        </div>
+
+
+        <label for="answerTextarea2">{{answer[1][1][0]}}</label>
+        <div class="input-group">
+         
+          <span class="input-group-addon " id="basic-addon1">{{answer[1][0]}}</span>
+          <textarea class="form-control" id="answerTextarea2" name="answer2" placeholder="...." rows="2">{{answer[1][1][1]}}</textarea>
+          <span class="input-group-addon" id="basic-addon1">{{answer[1][2]}}</span>
+        </div>
+
+
+        <label for="answerTextarea3">{{answer[2][1][0]}}</label>
+        <div class="input-group">
+          
+          <span class="input-group-addon " id="basic-addon1">{{answer[2][0]}}</span>
+          <textarea class="form-control" id="answerTextarea3" name="answer3" placeholder="...." rows="2">{{answer[2][1][1]}}</textarea>
+          <span class="input-group-addon" id="basic-addon1">{{answer[2][2]}}</span>
+        </div>
+
+
+        <label for="answerTextarea4">{{answer[3][1][0]}}</label>
+        <div class="input-group">
+          
+          <span class="input-group-addon " id="basic-addon1">{{answer[3][0]}}</span>
+          <textarea class="form-control" id="answerTextarea4" name="answer4" placeholder="...." rows="2">{{answer[3][1][1]}}</textarea>
+          <span class="input-group-addon" id="basic-addon1">{{answer[3][2]}}</span>
+        </div>
+
+        
+
+        {% endif %}
+    </div>
+  
+     
+     
+   
+</body>
+ 
+</html>
